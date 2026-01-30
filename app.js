@@ -1,5 +1,5 @@
 // 🔥 GANTI dengan URL Cloudflare kamu
-const API_URL = "https://kenny-wolf-katrina-wondering.trycloudflare.com";
+const API_URL = "https://proxy-mile-toe-penn.trycloudflare.com";
 
 let jobId = null;
 let interval = null;
